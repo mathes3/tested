@@ -1,1 +1,3 @@
 parm = 02
+rate = 67
+gyt = 45
